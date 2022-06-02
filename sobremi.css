@@ -1,0 +1,35 @@
+h1{
+    letter-spacing: 10px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.subtitulos{
+    background-color: black;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-size: 5px;
+}
+
+
+header{
+    background-image: url(../Clase8-CV_personal/Imagenes/cipolletti.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -300px;
+}
+
+
+body{
+    background-color: rgb(157, 98, 8);
+}
+
+
+
+    

@@ -1,0 +1,77 @@
+h1{
+    letter-spacing: 10px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.negrita{
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.subtitulos{
+    background-color: black;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.pic_personal{
+    position: center;
+}
+
+header{
+    background-image: url(../Clase8-CV_personal/Imagenes/cipolletti.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -340px;
+}
+
+img{
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    
+}
+
+body{
+    background-color: rgb(157, 98, 8);
+}
+
+.menu{
+    background-color: black;
+    display: inline-flex;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.menu a:hover{
+    background-color: white;
+    color: black;
+}
+
+.social{
+    margin: 50px, 0;
+}
+
+.social a{
+    padding: 0 10px;
+    color: white;
+}
+
+.social a:hover{
+    color: rgb(157, 98, 8);
+}
